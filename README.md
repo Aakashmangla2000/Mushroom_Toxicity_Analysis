@@ -1,3 +1,4 @@
 # Mushroom_Toxicity_Analysis
-A dataset about mushrooms was analysed to classify them as edible or poisonous. The application is developed on streamlit and deployed with docker and heroku.
-link to the website- https://drishapp.herokuapp.com/
+A dataset about mushrooms was analysed to classify them as "Edible" or "Poisonous".
+The application is developed on streamlit and deployed using docker and heroku.
+Link to the Website - https://drishapp.herokuapp.com/
